@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.05 Entity", "14.05 Entity\14.05 Entity.csproj", "{247405CD-0E80-41F3-8621-0372B44102A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gamedata", "Gamedata\Gamedata.csproj", "{57D76918-F0EA-40B6-A7DA-59F192B2E34A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{2C4DD867-04D3-4B6B-BFB5-2A9C69BE9515}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{247405CD-0E80-41F3-8621-0372B44102A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247405CD-0E80-41F3-8621-0372B44102A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247405CD-0E80-41F3-8621-0372B44102A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247405CD-0E80-41F3-8621-0372B44102A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57D76918-F0EA-40B6-A7DA-59F192B2E34A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D76918-F0EA-40B6-A7DA-59F192B2E34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D76918-F0EA-40B6-A7DA-59F192B2E34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D76918-F0EA-40B6-A7DA-59F192B2E34A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C4DD867-04D3-4B6B-BFB5-2A9C69BE9515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4DD867-04D3-4B6B-BFB5-2A9C69BE9515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4DD867-04D3-4B6B-BFB5-2A9C69BE9515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4DD867-04D3-4B6B-BFB5-2A9C69BE9515}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C66F513E-8EF2-42E5-B015-55776DED91BE}
+	EndGlobalSection
+EndGlobal
